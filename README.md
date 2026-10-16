@@ -1,10 +1,14 @@
-# Machine Learning
+# Loan Predict Project
 
-This repository contains my machine learning notes, learning materials, and machine learning projects.
+A machine learning project for classifying loan applications based on applicant information.
 
-## Contents
+## Models
 
-- 📚 [Machine Learning Notes](./Machine-Learning-Notes)
-- 💳 [Loan Predict Project](./Loan-Predict-Project)
+- Decision Tree
+- Random Forest
 
-These studies were developed as part of my continuous learning journey in Machine Learning.
+## Goal
+
+To predict whether a loan application will be approved or rejected.
+
+The project includes data analysis, preprocessing, model training, and evaluation.
